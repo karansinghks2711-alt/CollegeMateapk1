@@ -1,0 +1,6 @@
+{
+  "appId": "com.collegemate.attendance",
+  "appName": "CollegeMate",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
